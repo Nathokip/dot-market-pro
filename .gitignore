@@ -1,0 +1,22 @@
+node_modules
+# Keep environment variables out of version control
+.env
+.venv
+./node_modules
+
+/generated/prisma
+*.keras
+venv/
+__pycache__/
+
+# Build outputs and logs
+dist/
+*.log
+
+node_modules/
+.next/
+__pycache__/
+venv/
+*.csv
+*.keras
+*.h5

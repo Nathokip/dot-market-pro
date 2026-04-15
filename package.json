@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@prisma/client": "^7.7.0",
+    "axios": "^1.15.0",
+    "bcrypt": "^6.0.0",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.38.0",
+    "lucide-react": "^1.8.0",
+    "next-auth": "^4.24.13",
+    "prisma": "^7.7.0",
+    "recharts": "^3.8.1",
+    "zustand": "^5.0.12"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.2",
+    "autoprefixer": "^10.4.27",
+    "postcss": "^8.5.9",
+    "tailwindcss": "^4.2.2",
+    "tailwindcss-animate": "^1.0.7",
+    "typescript": "6.0.2"
+  }
+}
